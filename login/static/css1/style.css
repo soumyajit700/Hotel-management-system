@@ -1,0 +1,102 @@
+
+
+body{
+  font-family: 'Open Sans', sans-serif;
+  background-image: url("https://orig00.deviantart.net/728c/f/2013/034/1/9/rainbow_dash_login_background__series_1__by_mateo_thefox-d5tozbc.jpg");
+  margin: 0 auto 0 auto;  
+  width:100%; 
+  text-align:center;   
+}
+
+p{
+  font-size:18px;
+  font-family: "Times New Roman", Times, serif;
+  text-decoration: none;
+  color:#ffffff;
+}
+
+
+
+
+
+h1{
+  font-size:1.5em;
+  color:#525252;
+}
+
+.hello{
+
+  font-size: 1.3em;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: -1px;
+}
+
+.head{
+  background-color: black;
+  color:white;
+  width: 100%;
+  height: 65px;
+  margin: -140px 150px 100px 0px;
+  padding: 15px 0px 0px 10px;
+  text-align: left;
+  float:left;
+  font-size:1.8em;
+  opacity: 0.5;
+    filter: alpha(opacity=70); /* For IE8 and earlier */  
+}
+
+
+.box{
+  background-color: #d6f0c3;
+  width:430px;
+  height: 270px;
+  border-radius:1px;
+  text-align:center;
+  margin: 140px 190px 0px 420px;
+  padding:80px 0px 70px 0px;
+  font-family: "Times New Roman", Times, serif;
+  
+  font-style: normal;
+ 
+}
+
+.btn{
+  background:#2ecc71;
+  width:170px;
+  padding-top:15px;
+  padding-bottom:10px;
+  color:white;
+  border-radius:4px;
+  
+  
+  margin-top:70px;
+  margin-bottom:25px;
+  float:left;
+  margin-left:23px;
+  font-weight:600;
+  font-size:1.4em;
+}
+
+.btn:hover{
+  background:#2D9E44; 
+}
+
+#btn2{
+  float:left;
+  background:#3498db;
+  width:170px;  padding-top:15px;
+  padding-bottom:10px;
+  color:white;
+  border-radius:4px;
+  
+  
+  margin-top:70px;
+  margin-bottom:25px;
+  margin-left:36px;
+  font-weight:600;
+  font-size:1.4em;
+}
+
+#btn2:hover{ 
+background:#1D4360; 
+}
